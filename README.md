@@ -3,7 +3,7 @@
 ## Project Logo:
 ![image](https://github.com/developerrajthakur22/efficient-veil-6767/assets/121308092/28f5fe53-2248-441a-88e3-c843d58acdaf)
 
-**Deployed Link:**  <a href="https://650edf7abef72e2d853eec89--effulgent-daffodil-480f6d.netlify.app/">Tourista</a> 
+**Deployed Link:**  <a href="https://touristacw.netlify.app/">Tourista</a> 
 
 ## Introduction
 
